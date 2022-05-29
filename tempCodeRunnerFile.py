@@ -1,0 +1,5 @@
+",width=100)
+        # self.student_table.column("Name",width=100)
+        # self.student_table.column("email",width=100)
+        # self.student_table.column("Department",width=100)
+        # self.student_table.column("Attendance",width=100)
