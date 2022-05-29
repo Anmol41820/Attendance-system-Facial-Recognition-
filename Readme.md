@@ -17,7 +17,7 @@ Attendance System using facial recognition
 * To use the attendance system in any system one should have to follow the following steps-
     MySQL should be there in the system contains -> MySQL workbench 8.0 CE ,MySQL shell etc
     Create a database as 'sys', host='localhost',username='root',password='Isha@41820'
-    Then need to run the 'student.sql' prensent in the database folder  (contain the table)
+    Then need to run all the sql file ->'sys_student.sql','sys_routines', 'sys_sys_config' prensent in the database folder  (contain the table)
 
     This will lead you to a table name 'student' in the database name 'sys' then you can easly run the code with no mysql connector error or no database 'sys' found in your local machine.
 
